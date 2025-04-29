@@ -1,0 +1,232 @@
+2025-04-25 14:11:52,240 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/1705129.rss
+2025-04-25 14:11:54,759 - INFO - Fetched 0 episodes from RSS feed: https://thisdayinai.libsyn.com/rss
+2025-04-25 14:11:57,926 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/w6CWz6jN
+2025-04-25 14:11:59,539 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/2023029.rss
+2025-04-25 14:12:03,452 - INFO - Fetched 0 episodes from RSS feed: https://feeds.feedburner.com/twit/mlat
+2025-04-25 14:12:05,699 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/2nGuZx3N
+2025-04-25 14:12:06,076 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/1705129.rss
+2025-04-25 14:12:07,910 - INFO - Fetched 0 episodes from RSS feed: https://thisdayinai.libsyn.com/rss
+2025-04-25 14:12:08,399 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/4rOoJ6EJ
+2025-04-25 14:12:10,271 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/7gYrJt2Y
+2025-04-25 14:12:10,271 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/w6CWz6jN
+2025-04-25 14:12:11,329 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/2023029.rss
+2025-04-25 14:12:13,833 - INFO - Fetched 0 episodes from Apple Podcasts
+2025-04-25 14:12:13,836 - INFO - No AI podcasts published today.
+2025-04-25 14:12:13,847 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-25 14:12:13,848 - INFO - Added job "main" to job store "default"
+2025-04-25 14:12:13,848 - INFO - Scheduler started
+2025-04-25 14:12:13,979 - INFO - Fetched 0 episodes from RSS feed: https://feeds.feedburner.com/twit/mlat
+2025-04-25 14:12:15,689 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/2nGuZx3N
+2025-04-25 14:12:19,552 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/4rOoJ6EJ
+2025-04-25 14:12:21,300 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/7gYrJt2Y
+2025-04-25 14:12:23,054 - INFO - Fetched 0 episodes from Apple Podcasts
+2025-04-25 14:12:23,057 - INFO - No AI podcasts published today.
+2025-04-25 14:12:23,061 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-25 14:12:23,061 - INFO - Added job "main" to job store "default"
+2025-04-25 14:12:23,061 - INFO - Scheduler started
+2025-04-25 14:55:51,074 - INFO - Scheduler stopped
+2025-04-25 14:56:09,414 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/1705129.rss
+2025-04-25 14:56:10,699 - INFO - Fetched 0 episodes from RSS feed: https://thisdayinai.libsyn.com/rss
+2025-04-25 14:56:11,699 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/w6CWz6jN
+2025-04-25 14:56:12,417 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/2023029.rss
+2025-04-25 14:56:13,404 - INFO - Fetched 0 episodes from RSS feed: https://feeds.feedburner.com/twit/mlat
+2025-04-25 14:56:14,155 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/2nGuZx3N
+2025-04-25 14:56:14,956 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/4rOoJ6EJ
+2025-04-25 14:56:15,795 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/7gYrJt2Y
+2025-04-25 14:56:17,849 - INFO - Fetched 0 episodes from Apple Podcasts
+2025-04-25 14:56:17,879 - INFO - No AI podcasts published today.
+2025-04-25 14:56:17,928 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-25 14:56:17,930 - INFO - Added job "main" to job store "default"
+2025-04-25 14:56:17,931 - INFO - Scheduler started
+2025-04-25 16:57:02,504 - INFO - Scheduler stopped
+2025-04-25 16:57:09,714 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/1705129.rss
+2025-04-25 16:57:11,146 - INFO - Fetched 0 episodes from RSS feed: https://thisdayinai.libsyn.com/rss
+2025-04-25 16:57:11,758 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/w6CWz6jN
+2025-04-25 16:57:12,005 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/2023029.rss
+2025-04-25 16:57:12,723 - INFO - Fetched 0 episodes from RSS feed: https://feeds.feedburner.com/twit/mlat
+2025-04-25 16:57:13,443 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/2nGuZx3N
+2025-04-25 16:57:14,165 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/4rOoJ6EJ
+2025-04-25 16:57:14,792 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/7gYrJt2Y
+2025-04-25 16:57:15,473 - INFO - Fetched 0 episodes from Apple Podcasts
+2025-04-25 16:57:15,475 - INFO - No AI podcasts published today.
+2025-04-25 16:57:15,484 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-25 16:57:15,485 - INFO - Added job "main" to job store "default"
+2025-04-25 16:57:15,485 - INFO - Scheduler started
+2025-04-25 18:58:07,058 - INFO - Scheduler stopped
+2025-04-25 18:58:18,746 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/1705129.rss
+2025-04-25 18:58:21,079 - INFO - Fetched 0 episodes from RSS feed: https://thisdayinai.libsyn.com/rss
+2025-04-25 18:58:23,244 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/w6CWz6jN
+2025-04-25 18:58:24,269 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/2023029.rss
+2025-04-25 18:58:27,315 - INFO - Fetched 0 episodes from RSS feed: https://feeds.feedburner.com/twit/mlat
+2025-04-25 18:58:28,957 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/2nGuZx3N
+2025-04-25 18:58:30,640 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/4rOoJ6EJ
+2025-04-25 18:58:33,379 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/7gYrJt2Y
+2025-04-25 18:58:35,405 - INFO - Fetched 0 episodes from Apple Podcasts
+2025-04-25 18:58:35,407 - INFO - No AI podcasts published today.
+2025-04-25 18:58:41,807 - ERROR - Error sending email: (250, b'2.1.5 OK 3f1490d57ef6-e7303eacb71sm1043753276.42 - gsmtp')
+2025-04-25 18:58:41,815 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-25 18:58:41,816 - INFO - Added job "main" to job store "default"
+2025-04-25 18:58:41,816 - INFO - Scheduler started
+2025-04-25 18:58:46,899 - INFO - Scheduler stopped
+2025-04-25 18:59:01,151 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/1705129.rss
+2025-04-25 18:59:02,966 - INFO - Fetched 0 episodes from RSS feed: https://thisdayinai.libsyn.com/rss
+2025-04-25 18:59:04,542 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/w6CWz6jN
+2025-04-25 18:59:05,544 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/2023029.rss
+2025-04-25 18:59:07,807 - INFO - Fetched 0 episodes from RSS feed: https://feeds.feedburner.com/twit/mlat
+2025-04-25 18:59:09,457 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/2nGuZx3N
+2025-04-25 18:59:11,211 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/4rOoJ6EJ
+2025-04-25 18:59:12,884 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/7gYrJt2Y
+2025-04-25 18:59:14,904 - INFO - Fetched 0 episodes from Apple Podcasts
+2025-04-25 18:59:14,906 - INFO - No AI podcasts published today.
+2025-04-25 18:59:23,363 - INFO - Email sent successfully
+2025-04-25 18:59:23,367 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-25 18:59:23,368 - INFO - Added job "main" to job store "default"
+2025-04-25 18:59:23,368 - INFO - Scheduler started
+2025-04-25 19:19:30,894 - INFO - Scheduler stopped
+2025-04-25 19:19:36,686 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/1705129.rss
+2025-04-25 19:19:38,837 - INFO - Fetched 0 episodes from RSS feed: https://thisdayinai.libsyn.com/rss
+2025-04-25 19:19:40,905 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/w6CWz6jN
+2025-04-25 19:19:41,957 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/2023029.rss
+2025-04-25 19:19:44,880 - INFO - Fetched 0 episodes from RSS feed: https://feeds.feedburner.com/twit/mlat
+2025-04-25 19:19:46,629 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/2nGuZx3N
+2025-04-25 19:19:48,285 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/4rOoJ6EJ
+2025-04-25 19:19:50,038 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/7gYrJt2Y
+2025-04-25 19:22:42,027 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/1705129.rss
+2025-04-25 19:22:44,001 - INFO - Fetched 0 episodes from RSS feed: https://thisdayinai.libsyn.com/rss
+2025-04-25 19:22:46,161 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/w6CWz6jN
+2025-04-25 19:22:47,241 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/2023029.rss
+2025-04-25 19:22:49,517 - INFO - Fetched 0 episodes from RSS feed: https://feeds.feedburner.com/twit/mlat
+2025-04-25 19:22:51,231 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/2nGuZx3N
+2025-04-25 19:22:52,845 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/4rOoJ6EJ
+2025-04-25 19:22:54,470 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/7gYrJt2Y
+2025-04-25 19:22:56,624 - INFO - Fetched 0 episodes from RSS feed: https://feeds.redcircle.com/3b99e8d2-5b43-4d76-a502-18db2263c2e0
+2025-04-25 19:22:58,383 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/1T_k2WZo
+2025-04-25 19:22:59,788 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/2040639.rss
+2025-04-25 19:23:01,982 - INFO - Fetched 0 episodes from RSS feed: https://api.pod.co/podcasts/gradient-dissent/feed
+2025-04-25 19:23:03,452 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/2084645.rss
+2025-04-25 19:23:05,572 - INFO - Fetched 0 episodes from Apple Podcasts
+2025-04-25 19:23:05,575 - INFO - No AI podcasts published today.
+2025-04-25 19:23:14,000 - INFO - Email sent successfully
+2025-04-25 19:23:14,007 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-25 19:23:14,008 - INFO - Added job "main" to job store "default"
+2025-04-25 19:23:14,008 - INFO - Scheduler started
+2025-04-26 22:52:26,076 - WARNING - Run time of job "main (trigger: interval[1 day, 0:00:00], next run at: 2025-04-26 08:00:00 EDT)" was missed by 14:52:26.075090
+2025-04-27 08:00:00,534 - INFO - Running job "main (trigger: interval[1 day, 0:00:00], next run at: 2025-04-28 08:00:00 EDT)" (scheduled at 2025-04-27 08:00:00-04:00)
+2025-04-27 08:00:01,650 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/1705129.rss
+2025-04-27 08:00:02,723 - INFO - Fetched 0 episodes from RSS feed: https://thisdayinai.libsyn.com/rss
+2025-04-27 08:00:03,716 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/w6CWz6jN
+2025-04-27 08:00:04,441 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/2023029.rss
+2025-04-27 08:00:05,405 - INFO - Fetched 0 episodes from RSS feed: https://feeds.feedburner.com/twit/mlat
+2025-04-27 08:00:06,155 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/2nGuZx3N
+2025-04-27 08:00:06,869 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/4rOoJ6EJ
+2025-04-27 08:00:07,664 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/7gYrJt2Y
+2025-04-27 08:00:08,573 - INFO - Fetched 0 episodes from RSS feed: https://feeds.redcircle.com/3b99e8d2-5b43-4d76-a502-18db2263c2e0
+2025-04-27 08:00:09,391 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/1T_k2WZo
+2025-04-27 08:00:10,105 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/2040639.rss
+2025-04-27 08:00:11,232 - INFO - Fetched 0 episodes from RSS feed: https://api.pod.co/podcasts/gradient-dissent/feed
+2025-04-27 08:00:11,986 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/2084645.rss
+2025-04-27 08:00:14,304 - INFO - Fetched 0 episodes from Apple Podcasts
+2025-04-27 08:00:14,308 - INFO - No AI podcasts published today.
+2025-04-27 08:00:17,912 - INFO - Email sent successfully
+2025-04-27 08:00:17,913 - INFO - Job "main (trigger: interval[1 day, 0:00:00], next run at: 2025-04-28 08:00:00 EDT)" executed successfully
+2025-04-27 10:56:42,135 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/1705129.rss
+2025-04-27 10:56:43,212 - INFO - Fetched 0 episodes from RSS feed: https://thisdayinai.libsyn.com/rss
+2025-04-27 10:56:44,145 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/w6CWz6jN
+2025-04-27 10:56:44,880 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/2023029.rss
+2025-04-27 10:56:45,777 - INFO - Fetched 0 episodes from RSS feed: https://feeds.feedburner.com/twit/mlat
+2025-04-27 10:56:46,617 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/2nGuZx3N
+2025-04-27 10:56:47,540 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/4rOoJ6EJ
+2025-04-27 10:56:48,334 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/7gYrJt2Y
+2025-04-27 10:56:49,359 - INFO - Fetched 0 episodes from RSS feed: https://feeds.redcircle.com/3b99e8d2-5b43-4d76-a502-18db2263c2e0
+2025-04-27 10:56:50,181 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/1T_k2WZo
+2025-04-27 10:56:50,904 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/2040639.rss
+2025-04-27 10:56:52,029 - INFO - Fetched 0 episodes from RSS feed: https://api.pod.co/podcasts/gradient-dissent/feed
+2025-04-27 10:56:52,585 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/2084645.rss
+2025-04-27 10:56:53,960 - INFO - Fetched 0 episodes from Apple Podcasts
+2025-04-27 10:56:53,963 - INFO - No AI podcasts published today.
+2025-04-27 10:56:58,284 - INFO - Email sent successfully
+2025-04-27 10:56:58,291 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-04-27 10:56:58,292 - INFO - Added job "main" to job store "default"
+2025-04-27 10:56:58,292 - INFO - Scheduler started
+2025-04-27 15:18:52,473 - INFO - Scheduler stopped
+2025-04-28 19:29:18,340 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-28 19:29:18,341 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 19:29:18,342 - INFO -  * Restarting with stat
+2025-04-28 19:29:20,019 - WARNING -  * Debugger is active!
+2025-04-28 19:29:20,037 - INFO -  * Debugger PIN: 434-583-747
+2025-04-28 19:32:57,690 - INFO -  * Detected change in '/Users/X/cursor/AI_UPDATE/web_app.py', reloading
+2025-04-28 19:32:57,916 - INFO -  * Restarting with stat
+2025-04-28 19:33:00,417 - WARNING -  * Debugger is active!
+2025-04-28 19:33:00,433 - INFO -  * Debugger PIN: 434-583-747
+2025-04-28 19:33:15,567 - INFO -  * Detected change in '/Users/X/cursor/AI_UPDATE/web_app.py', reloading
+2025-04-28 19:33:15,800 - INFO -  * Restarting with stat
+2025-04-28 19:33:18,300 - WARNING -  * Debugger is active!
+2025-04-28 19:33:18,316 - INFO -  * Debugger PIN: 434-583-747
+2025-04-28 19:40:57,193 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-28 19:40:57,193 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 19:40:57,195 - INFO -  * Restarting with stat
+2025-04-28 19:40:58,889 - WARNING -  * Debugger is active!
+2025-04-28 19:40:58,904 - INFO -  * Debugger PIN: 434-583-747
+2025-04-28 19:42:07,453 - INFO -  * Detected change in '/Users/X/cursor/AI_UPDATE/web_app.py', reloading
+2025-04-28 19:42:07,698 - INFO -  * Restarting with stat
+2025-04-28 19:42:09,553 - WARNING -  * Debugger is active!
+2025-04-28 19:42:09,568 - INFO -  * Debugger PIN: 434-583-747
+2025-04-28 19:42:48,846 - INFO -  * Detected change in '/Users/X/cursor/AI_UPDATE/web_app.py', reloading
+2025-04-28 19:42:49,076 - INFO -  * Restarting with stat
+2025-04-28 19:42:50,962 - WARNING -  * Debugger is active!
+2025-04-28 19:42:50,978 - INFO -  * Debugger PIN: 434-583-747
+2025-04-28 19:46:06,297 - INFO -  * Detected change in '/Users/X/cursor/AI_UPDATE/web_app.py', reloading
+2025-04-28 19:46:06,716 - INFO -  * Restarting with stat
+2025-04-28 19:46:09,017 - WARNING -  * Debugger is active!
+2025-04-28 19:46:09,032 - INFO -  * Debugger PIN: 434-583-747
+2025-04-28 19:49:12,590 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-04-28 19:49:12,590 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 19:49:12,592 - INFO -  * Restarting with stat
+2025-04-28 19:49:14,492 - WARNING -  * Debugger is active!
+2025-04-28 19:49:14,508 - INFO -  * Debugger PIN: 434-583-747
+2025-04-28 19:49:24,595 - INFO -  * Detected change in '/Users/X/cursor/AI_UPDATE/web_app.py', reloading
+2025-04-28 19:49:24,867 - INFO -  * Restarting with stat
+2025-04-28 19:49:25,367 - INFO -  * Detected change in '/Users/X/cursor/AI_UPDATE/web_app.py', reloading
+2025-04-28 19:49:25,625 - INFO -  * Restarting with stat
+2025-04-28 19:49:27,093 - WARNING -  * Debugger is active!
+2025-04-28 19:49:27,111 - INFO -  * Debugger PIN: 434-583-747
+2025-04-28 19:49:28,044 - WARNING -  * Debugger is active!
+2025-04-28 19:49:28,059 - INFO -  * Debugger PIN: 434-583-747
+2025-04-28 20:01:42,757 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-04-28 20:01:42,758 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 20:01:42,759 - INFO -  * Restarting with stat
+2025-04-28 20:01:44,680 - WARNING -  * Debugger is active!
+2025-04-28 20:01:44,699 - INFO -  * Debugger PIN: 434-583-747
+2025-04-28 20:02:16,784 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/1705129.rss
+2025-04-28 20:06:19,555 - INFO - Fetched 0 episodes from RSS feed: https://thisdayinai.libsyn.com/rss
+2025-04-28 20:06:20,241 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/w6CWz6jN
+2025-04-28 20:06:20,901 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/2023029.rss
+2025-04-28 20:06:29,160 - INFO - Fetched 0 episodes from RSS feed: https://feeds.feedburner.com/twit/mlat
+2025-04-28 20:06:29,696 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/2nGuZx3N
+2025-04-28 20:06:30,309 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/4rOoJ6EJ
+2025-04-28 20:06:30,970 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/7gYrJt2Y
+2025-04-28 20:06:33,574 - INFO - Fetched 0 episodes from RSS feed: https://feeds.redcircle.com/3b99e8d2-5b43-4d76-a502-18db2263c2e0
+2025-04-28 20:06:34,254 - INFO - Fetched 0 episodes from RSS feed: https://feeds.simplecast.com/1T_k2WZo
+2025-04-28 20:06:34,645 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/2040639.rss
+2025-04-28 20:06:35,809 - INFO - Fetched 0 episodes from RSS feed: https://api.pod.co/podcasts/gradient-dissent/feed
+2025-04-28 20:06:36,213 - INFO - Fetched 0 episodes from RSS feed: https://feeds.buzzsprout.com/2084645.rss
+2025-04-28 20:06:37,691 - INFO - Fetched 1 episodes from Apple Podcasts
+2025-04-28 20:06:45,364 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-28 20:06:45,384 - INFO - 127.0.0.1 - - [28/Apr/2025 20:06:45] "GET / HTTP/1.1" 200 -
+2025-04-28 20:06:47,753 - INFO - 127.0.0.1 - - [28/Apr/2025 20:06:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-28 20:10:07,332 - INFO -  * Detected change in '/Users/X/cursor/AI_UPDATE/gunicorn_config.py', reloading
+2025-04-28 20:10:07,339 - INFO -  * Detected change in '/Users/X/cursor/AI_UPDATE/gunicorn_config.py', reloading
+2025-04-28 20:10:07,601 - INFO -  * Restarting with stat
+2025-04-28 20:10:07,733 - INFO -  * Restarting with stat
+2025-04-28 20:10:10,014 - WARNING -  * Debugger is active!
+2025-04-28 20:10:10,014 - WARNING -  * Debugger is active!
+2025-04-28 20:10:10,030 - INFO -  * Debugger PIN: 434-583-747
+2025-04-28 20:10:10,030 - INFO -  * Debugger PIN: 434-583-747
+2025-04-28 20:10:32,216 - INFO -  * Detected change in '/Users/X/cursor/AI_UPDATE/web_app.py', reloading
+2025-04-28 20:10:32,216 - INFO -  * Detected change in '/Users/X/cursor/AI_UPDATE/web_app.py', reloading
+2025-04-28 20:10:32,505 - INFO -  * Restarting with stat
+2025-04-28 20:10:32,505 - INFO -  * Restarting with stat
